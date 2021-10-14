@@ -3,8 +3,8 @@
 clone the app
 creat .env and set your detabase 
 run composer install command
-run php artisan serve
+run php artisan serve commands
 if did not work 
-run composer update
-run php artisan key:generate
-run php artisan serve
+run composer update commands
+run php artisan key:generate commands
+run php artisan serve commands
